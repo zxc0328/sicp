@@ -1,3 +1,4 @@
+;; the solution actually is the solution of 1.18
 (define (even? n)
   (= (remainder n 2) 0))
 
